@@ -1,0 +1,8 @@
+.container{
+    background-color:  rgb(226, 178, 178);
+    column-width: 12em;
+}
+.card{
+    background-color: rgb(163, 163, 223);
+    padding: 1em;
+}
